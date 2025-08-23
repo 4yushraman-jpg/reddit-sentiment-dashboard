@@ -1,0 +1,15 @@
+# Core data and web app libraries
+pandas
+streamlit
+plotly
+matplotlib
+seaborn
+wordcloud
+
+# Reddit API and sentiment analysis
+praw
+vaderSentiment
+
+# Utilities for managing environment variables and progress bars
+python-dotenv
+tqdm
